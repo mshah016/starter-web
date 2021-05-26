@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    meera -- meera@gmail -- meera123
 
 # THANKS
 
