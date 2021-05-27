@@ -8,6 +8,7 @@ website to show some git examples
 ## Purpose
 
 Sample website with plenty of files for demos
+emergency fix
 ## Deployment
 added deployment section
 more deployment 
